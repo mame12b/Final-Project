@@ -1,0 +1,56 @@
+
+
+.alert p:last-of-type {
+    margin-bottom: 0;
+}
+
+.alert p {
+    margin-top: 0;
+}
+.alert {
+    border: 1px solid;
+    border-radius: 2px;
+    font-size: 15px;
+    line-height: 1.5em;
+    padding: 14px;
+    position: relative;
+}
+.alert-success {
+    background: #DFF0D8;
+    border-color: #b2dba1;
+    color: #468847;
+}
+.alert .close {
+    cursor: pointer;
+    line-height: 1;
+    position: absolute;
+    top: 14px;
+    right: 14px;
+}
+
+.a {
+    color: #538AE4;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.z-5 {
+    z-index: 5;
+}
+
+.mh3 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.fixed {
+    position: fixed;
+}
+.top-1 {
+    top: 1rem;
+}
+.left-0 {
+    left: 0;
+}
+.right-0 {
+    right: 0;
+}
